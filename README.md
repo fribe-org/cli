@@ -2,7 +2,7 @@
 
 ## <img src="https://www.akashtrehan.com/assets/images/emoji/terminal.png" height="32" align="center"> Project base builder for everyone
 
-![](cli.png)
+![](https://raw.githubusercontent.com/fribe-org/cli/main/cli.png)
 
 ## Installation & Usage
 
