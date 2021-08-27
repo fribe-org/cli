@@ -7,13 +7,9 @@
 ## Installation & Usage
 
 ```bash
-npm init @fribe/fribe-cli
-# or
-npx @fribe/fribe-cli
-# or
 npm install -g @fribe/fribe-cli
 # or
-npm install -g @fribe/fribe-cli
+yarn add global @fribe/fribe-cli
 
 fribe-cli
 ```
