@@ -1,6 +1,6 @@
 {
   "name": "@fribe/fribe-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Project base builder for everyone",
   "main": "src/index.js",
   "bin": "bin/fribe-cli",
@@ -14,7 +14,16 @@
     "cli",
     "fribe-cli"
   ],
-  "author": "Ömer Faruk Biçer <omerfarukbicer0446@gmail.com>",
+  "authors": [
+    {
+      "name": "Ömer Faruk Biçer",
+      "email": "omerfarukbicer0446@gmail.com"
+    },
+    {
+      "name": "Ertuğrul Sencer Uzun",
+      "email": "ertugrul@fribe.org"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "arg": "^4.1.0",
