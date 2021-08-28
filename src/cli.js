@@ -46,7 +46,7 @@ async function promptForMissingOptions(options) {
       type: 'list',
       name: 'template',
       message: 'Please choose which project template to use',
-      choices: ['ejs-expressjs-mongo-session'],
+      choices: ['ejs-expressjs-mongo-session','expressjs-server-side'],
       default: defaultTemplate,
     });
   }
