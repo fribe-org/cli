@@ -21,3 +21,5 @@ MIT
 ## Collaborators
 
 - Ömer Faruk Biçer <omerfarukbicer0446@gmail.com>
+
+- Ertugrul Sencer UZUN <ertugrul@fribe.com>
