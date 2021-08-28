@@ -1,6 +1,6 @@
 {
   "name": "@fribe/fribe-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Project base builder for everyone",
   "main": "src/index.js",
   "bin": "bin/fribe-cli",
